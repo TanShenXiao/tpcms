@@ -1,0 +1,1598 @@
+---------------------------------------------------------------
+[ 2018-06-14T09:34:39+08:00 ] 127.0.0.1 GET /
+[ info ] tp5/ [运行时间：0.229148s][吞吐率：4.36req/s] [内存消耗：1,124.54kb] [文件加载：34]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\www\cms\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\www\cms\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-06-14T09:35:08+08:00 ] 127.0.0.1 GET /tsx_build/crud
+[ info ] tp5/tsx_build/crud [运行时间：0.086302s][吞吐率：11.59req/s] [内存消耗：888.84kb] [文件加载：29]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'crud',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [-1]Class think\TsxBuild\controllers\crud does not exist[E:\www\cms\thinkphp\library\think\App.php:357]
+---------------------------------------------------------------
+[ 2018-06-14T09:35:17+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.145514s][吞吐率：0.87req/s] [内存消耗：1,309.37kb] [文件加载：43]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.013042s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table lotus_admin_user' at line 1[E:\www\cms\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-06-14T09:35:36+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.155258s][吞吐率：0.87req/s] [内存消耗：1,267.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.025219s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM lotus_admin_user [ RunTime:0.099932s ]
+---------------------------------------------------------------
+[ 2018-06-14T09:35:59+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.056095s][吞吐率：0.95req/s] [内存消耗：1,309.70kb] [文件加载：43]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.016337s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table_commit FROM lotus_admin_user' at line 1[E:\www\cms\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-06-14T09:37:44+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.059012s][吞吐率：0.94req/s] [内存消耗：1,262.42kb] [文件加载：36]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.023028s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] SHOW create table lotus_admin_user [ RunTime:0.001038s ]
+---------------------------------------------------------------
+[ 2018-06-14T09:41:31+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.243517s][吞吐率：0.80req/s] [内存消耗：1,309.63kb] [文件加载：43]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.027592s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '="lotus_admin_user"' at line 1[E:\www\cms\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-06-14T09:42:01+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.039066s][吞吐率：0.96req/s] [内存消耗：1,308.87kb] [文件加载：43]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.013763s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inforamation_schema.columns' doesn't exist[E:\www\cms\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-06-14T09:42:31+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.087665s][吞吐率：0.92req/s] [内存消耗：1,264.05kb] [文件加载：36]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.015684s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] select column_name data_type from Information_schema.columns where TABLE_NAME="lotus_admin_user" [ RunTime:0.056897s ]
+---------------------------------------------------------------
+[ 2018-06-14T09:42:57+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.051251s][吞吐率：0.95req/s] [内存消耗：1,265.00kb] [文件加载：36]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.012462s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] select column_name,data_type from Information_schema.columns where TABLE_NAME="lotus_admin_user" [ RunTime:0.022482s ]
+---------------------------------------------------------------
+[ 2018-06-14T09:43:39+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.095264s][吞吐率：0.91req/s] [内存消耗：1,265.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.014231s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] select column_name,data_type,column_comment from Information_schema.columns where TABLE_NAME="lotus_admin_user" [ RunTime:0.062057s ]
+---------------------------------------------------------------
+[ 2018-06-14T09:56:11+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.130810s][吞吐率：0.88req/s] [内存消耗：1,265.84kb] [文件加载：36]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.016453s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables [ RunTime:0.007503s ]
+---------------------------------------------------------------
+[ 2018-06-14T09:58:58+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.036875s][吞吐率：0.96req/s] [内存消耗：1,259.97kb] [文件加载：36]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.017828s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'sss' [ RunTime:0.002181s ]
+---------------------------------------------------------------
+[ 2018-06-14T09:59:05+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.056227s][吞吐率：0.95req/s] [内存消耗：1,260.57kb] [文件加载：36]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.025639s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.002705s ]
+---------------------------------------------------------------
+[ 2018-06-14T10:48:40+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.438665s][吞吐率：0.70req/s] [内存消耗：1,394.07kb] [文件加载：42]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.037863s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.018202s ]
+[ error ] [64]Cannot use think\TsxBuild\Object as Object because 'Object' is a special class name[E:\www\cms\thinkphp\library\think\TsxBuild\crud\Generator.php:12]
+---------------------------------------------------------------
+[ 2018-06-14T10:50:12+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.119673s][吞吐率：0.89req/s] [内存消耗：1,536.17kb] [文件加载：45]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.007305s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.007147s ]
+[ error ] [0]致命错误: Call to a member function getError() on boolean[E:\www\cms\thinkphp\library\think\TsxBuild\crud\Generator.php:38]
+---------------------------------------------------------------
+[ 2018-06-14T10:51:18+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.064112s][吞吐率：0.94req/s] [内存消耗：1,393.24kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.025512s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.004416s ]
+---------------------------------------------------------------
+[ 2018-06-14T10:55:31+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.066783s][吞吐率：0.94req/s] [内存消耗：1,394.34kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.018913s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.007379s ]
+---------------------------------------------------------------
+[ 2018-06-14T10:55:45+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.056192s][吞吐率：0.95req/s] [内存消耗：1,394.40kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.014180s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.002173s ]
+---------------------------------------------------------------
+[ 2018-06-14T10:58:34+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.141236s][吞吐率：0.88req/s] [内存消耗：1,497.91kb] [文件加载：47]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.015769s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.005702s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$value' at line 1[E:\www\cms\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-06-14T10:58:54+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.065080s][吞吐率：0.94req/s] [内存消耗：1,498.00kb] [文件加载：47]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.008051s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.007669s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lotus_admin_user' at line 1[E:\www\cms\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-06-14T10:59:14+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.048694s][吞吐率：0.95req/s] [内存消耗：1,394.34kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.013683s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.003950s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.004426s ]
+---------------------------------------------------------------
+[ 2018-06-14T10:59:41+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.067324s][吞吐率：0.94req/s] [内存消耗：1,446.53kb] [文件加载：42]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.017231s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.005051s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.006523s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.005330s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:19:10+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.104008s][吞吐率：0.91req/s] [内存消耗：1,542.74kb] [文件加载：46]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.019172s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.004605s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.005508s ]
+[ error ] [2]preg_match(): Unknown modifier ')'[E:\www\cms\thinkphp\library\think\Validate.php:1200]
+---------------------------------------------------------------
+[ 2018-06-14T11:21:35+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.097928s][吞吐率：0.91req/s] [内存消耗：1,542.74kb] [文件加载：46]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.027075s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.005024s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.005464s ]
+[ error ] [2]preg_match(): Unknown modifier ')'[E:\www\cms\thinkphp\library\think\Validate.php:1200]
+---------------------------------------------------------------
+[ 2018-06-14T11:22:12+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.065938s][吞吐率：0.94req/s] [内存消耗：1,542.74kb] [文件加载：46]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.016095s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.004587s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.005962s ]
+[ error ] [2]preg_match(): Unknown modifier ']'[E:\www\cms\thinkphp\library\think\Validate.php:1200]
+---------------------------------------------------------------
+[ 2018-06-14T11:22:59+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.040459s][吞吐率：0.96req/s] [内存消耗：1,542.72kb] [文件加载：46]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.013155s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.001546s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.001194s ]
+[ error ] [2]preg_match(): No ending delimiter '!' found[E:\www\cms\thinkphp\library\think\Validate.php:1200]
+---------------------------------------------------------------
+[ 2018-06-14T11:24:01+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.067909s][吞吐率：0.94req/s] [内存消耗：1,542.74kb] [文件加载：46]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.015853s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.005012s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.006853s ]
+[ error ] [2]preg_match(): Unknown modifier ']'[E:\www\cms\thinkphp\library\think\Validate.php:1200]
+---------------------------------------------------------------
+[ 2018-06-14T11:24:36+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.039055s][吞吐率：0.96req/s] [内存消耗：1,399.19kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.006160s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.004684s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.003445s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:28:11+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.073766s][吞吐率：0.93req/s] [内存消耗：1,542.74kb] [文件加载：46]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.018149s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.005752s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.007058s ]
+[ error ] [2]preg_match(): Unknown modifier ')'[E:\www\cms\thinkphp\library\think\Validate.php:1201]
+---------------------------------------------------------------
+[ 2018-06-14T11:31:53+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.076294s][吞吐率：0.93req/s] [内存消耗：1,542.74kb] [文件加载：46]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.024039s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.005056s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.004376s ]
+[ error ] [2]preg_match(): Unknown modifier ']'[E:\www\cms\thinkphp\library\think\Validate.php:1201]
+---------------------------------------------------------------
+[ 2018-06-14T11:32:13+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.085386s][吞吐率：0.92req/s] [内存消耗：1,542.74kb] [文件加载：46]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.010930s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.008443s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.008381s ]
+[ error ] [2]preg_match(): Unknown modifier ']'[E:\www\cms\thinkphp\library\think\Validate.php:1201]
+---------------------------------------------------------------
+[ 2018-06-14T11:32:32+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.048045s][吞吐率：0.95req/s] [内存消耗：1,399.19kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.015872s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.004407s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.004316s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:41:13+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.086148s][吞吐率：0.92req/s] [内存消耗：1,398.80kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.011807s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.004010s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.004066s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.004140s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:41:55+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.080593s][吞吐率：0.93req/s] [内存消耗：1,398.79kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.024735s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.003154s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.003151s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.003052s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:42:11+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.069118s][吞吐率：0.94req/s] [内存消耗：1,449.88kb] [文件加载：42]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.027923s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.002981s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.003003s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002767s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:42:22+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.068045s][吞吐率：0.94req/s] [内存消耗：1,398.80kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.026891s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.004878s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.005625s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.005201s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:42:38+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.043824s][吞吐率：0.96req/s] [内存消耗：1,398.77kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.004533s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.002877s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.003207s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002521s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:44:40+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.062804s][吞吐率：0.94req/s] [内存消耗：1,398.80kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.019153s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.005017s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.006228s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.005626s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:46:36+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.048008s][吞吐率：0.95req/s] [内存消耗：1,398.84kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.014969s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.002856s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002306s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002000s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:46:39+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.060094s][吞吐率：0.94req/s] [内存消耗：1,398.84kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.017728s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.005803s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.005807s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.004204s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:46:51+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.066352s][吞吐率：0.94req/s] [内存消耗：1,398.88kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.017411s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.003000s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002005s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.001713s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:48:20+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.062296s][吞吐率：0.94req/s] [内存消耗：1,398.72kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.025300s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.002192s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002717s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002373s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:49:35+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.074979s][吞吐率：0.93req/s] [内存消耗：1,398.94kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.017985s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.006612s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.006002s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002945s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:51:27+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.080404s][吞吐率：0.93req/s] [内存消耗：1,398.94kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.026637s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.008004s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.006124s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.004919s ]
+---------------------------------------------------------------
+[ 2018-06-14T11:52:24+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.065433s][吞吐率：0.94req/s] [内存消耗：1,449.96kb] [文件加载：42]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.017463s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.002413s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002193s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002001s ]
+---------------------------------------------------------------
+[ 2018-06-14T14:32:57+08:00 ] 127.0.0.1 GET /tsx_build/curd
+[ info ] tp5/tsx_build/curd [运行时间：1.363861s][吞吐率：0.73req/s] [内存消耗：1,404.47kb] [文件加载：40]
+[ info ] [ LANG ] E:\www\cms\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tsx_build',
+    1 => 'curd',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=1865425920; username=admin; password=123456',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'tp5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] think\TsxBuild\controllers\curd->index[ E:\www\cms\thinkphp\library\think\TsxBuild\controllers\curd.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.049400s ] mysql:host=localhost;dbname=cms;charset=utf8
+[ sql ] [ SQL ] show tables like 'lotus_api' [ RunTime:0.026068s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.002988s ]
+[ sql ] [ SQL ] show tables like "lotus_admin_user" [ RunTime:0.001997s ]
+[ sql ] [ SQL ] select column_name,column_comment from Information_schema.columns WHERE TABLE_NAME="lotus_admin_user" [ RunTime:0.061364s ]

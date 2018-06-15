@@ -1,0 +1,26 @@
+<div>
+	<?php echo $add_form ?>
+	<?php foreach($data as $item){
+	
+		echo $item['form'];
+		echo '<br>';
+	}
+	echo $add_button;
+	echo $cancel;
+	?>
+	<?php echo $add_form ?>
+	</form>
+</div>
+<div>
+	<?php echo $edit_form ?>
+	<input type="hidden" id="<?=$PriKey?>" value=""/>
+	<?php foreach($data as $item){
+
+		echo $item['form'];
+		echo '<br>';
+	}
+	echo $edit_button;
+	echo $cancel;
+	?>
+	<?php echo $add_form ?>
+</div>

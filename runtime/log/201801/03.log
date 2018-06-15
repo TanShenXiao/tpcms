@@ -1,0 +1,1046 @@
+---------------------------------------------------------------
+[ 2018-01-03T11:57:05+08:00 ] 127.0.0.1 GET /
+[ info ] www.demo_public.com/ [运行时间：0.047003s][吞吐率：21.28req/s] [内存消耗：1,220.54kb] [文件加载：35]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\WWW\demo\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T11:57:07+08:00 ] 127.0.0.1 GET /
+[ info ] www.demo_public.com/ [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,105.74kb] [文件加载：33]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\WWW\demo\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T12:02:20+08:00 ] 127.0.0.1 GET /
+[ info ] www.demo_public.com/ [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,105.78kb] [文件加载：34]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\WWW\demo\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T12:02:21+08:00 ] 127.0.0.1 GET /
+[ info ] www.demo_public.com/ [运行时间：0.030001s][吞吐率：33.33req/s] [内存消耗：1,106.01kb] [文件加载：34]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\WWW\demo\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T12:02:36+08:00 ] 127.0.0.1 GET /admin
+[ info ] www.demo_public.com/admin [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：882.05kb] [文件加载：29]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [64]Can't use function return value in write context[D:\WWW\demo\application\admin\controller\Index.php:12]
+---------------------------------------------------------------
+[ 2018-01-03T12:04:37+08:00 ] 127.0.0.1 GET /admin
+[ info ] www.demo_public.com/admin [运行时间：0.027002s][吞吐率：37.03req/s] [内存消耗：1,094.00kb] [文件加载：35]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T12:04:37+08:00 ] 127.0.0.1 GET /index.php/admin/login/index
+[ info ] www.demo_public.com/index.php/admin/login/index [运行时间：0.031001s][吞吐率：32.26req/s] [内存消耗：1,238.67kb] [文件加载：38]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\WWW\demo\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\login\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Can't use function return value in write context[D:\WWW\demo\runtime\temp\4a6b9e131684f4f3e9498142ae4cee73.php:97]
+---------------------------------------------------------------
+[ 2018-01-03T12:04:59+08:00 ] 127.0.0.1 GET /index.php/admin/login/index
+[ info ] www.demo_public.com/index.php/admin/login/index [运行时间：0.028001s][吞吐率：35.71req/s] [内存消耗：1,215.09kb] [文件加载：36]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\WWW\demo\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\login\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T12:05:07+08:00 ] 127.0.0.1 POST /index.php/admin/login/login
+[ info ] www.demo_public.com/index.php/admin/login/login [运行时间：1.119064s][吞吐率：0.89req/s] [内存消耗：1,765.91kb] [文件加载：44]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'content-length' => '30',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://www.demo_public.com/index.php/admin/login/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'admin',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\admin\controller\Login->login[ D:\WWW\demo\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Log @log [ RunTime:0.012001s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.006058s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_admin_user` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_system_log` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] INSERT INTO `lotus_system_log` (`name` , `way` , `username` , `create_time` , `ip` , `location`) VALUES ('成功登陆' , 'Login/login' , 'admin' , '2018-01-03 12:05:07' , '127.0.0.1' , '内网IP***内网IP') [ RunTime:0.003001s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:05:11+08:00 ] 127.0.0.1 GET /index.php/admin/index/index.html
+[ info ] www.demo_public.com/index.php/admin/index/index.html [运行时间：1.067061s][吞吐率：0.94req/s] [内存消耗：2,120.55kb] [文件加载：45]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'referer' => 'http://www.demo_public.com/index.php/admin/login/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\WWW\demo\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\index\index.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.003058s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:05:16+08:00 ] 127.0.0.1 GET /index.php/admin/system/setting.html
+[ info ] www.demo_public.com/index.php/admin/system/setting.html [运行时间：1.083062s][吞吐率：0.92req/s] [内存消耗：1,994.56kb] [文件加载：45]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'setting',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'referer' => 'http://www.demo_public.com/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\System->setting[ D:\WWW\demo\application\admin\controller\System.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\system\setting.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+  3 => 'site_config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.011057s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_system` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `lotus_system` WHERE  `name` = 'site_config' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:05:19+08:00 ] 127.0.0.1 GET /index.php/admin/system/index.html
+[ info ] www.demo_public.com/index.php/admin/system/index.html [运行时间：1.088063s][吞吐率：0.92req/s] [内存消耗：2,107.30kb] [文件加载：48]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'referer' => 'http://www.demo_public.com/index.php/admin/system/setting.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\System->index[ D:\WWW\demo\application\admin\controller\System.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\system\index.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+  3 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.011058s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_system_log` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `lotus_system_log` LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_system_log` ORDER BY id desc LIMIT 0,15 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:05:22+08:00 ] 127.0.0.1 GET /index.php/admin/admin_user/index.html
+[ info ] www.demo_public.com/index.php/admin/admin_user/index.html [运行时间：1.089062s][吞吐率：0.92req/s] [内存消耗：2,335.32kb] [文件加载：47]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'admin_user',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'referer' => 'http://www.demo_public.com/index.php/admin/system/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\AdminUser->index[ D:\WWW\demo\application\admin\controller\AdminUser.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\admin_user\index.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+  3 => 'role',
+  4 => 'list',
+  5 => 'item',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.001057s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_admin_user` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_admin_user` ORDER BY id desc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] SELECT `id`,`title` FROM `lotus_auth_group` WHERE  `status` = 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:05:25+08:00 ] 127.0.0.1 GET /index.php/admin/admin_user/edit_user.html?id=138
+[ info ] www.demo_public.com/index.php/admin/admin_user/edit_user.html?id=138 [运行时间：1.094063s][吞吐率：0.91req/s] [内存消耗：2,179.16kb] [文件加载：46]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'admin_user',
+    2 => 'edit_user',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'referer' => 'http://www.demo_public.com/index.php/admin/admin_user/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '138',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\AdminUser->edit_user[ D:\WWW\demo\application\admin\controller\AdminUser.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\admin_user\edit_user.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+  3 => 'role',
+  4 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.002058s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_admin_user` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`group_id` FROM `lotus_admin_user` `a` LEFT JOIN `lotus_auth_group_access` `b` ON `b`.`uid`=`a`.`id` WHERE  `a`.`id` = '138' LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `id`,`title` FROM `lotus_auth_group` WHERE  `status` = 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:18:10+08:00 ] 127.0.0.1 GET /
+[ info ] www.demo_public.com/ [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：1,105.85kb] [文件加载：34]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\WWW\demo\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T12:18:43+08:00 ] 127.0.0.1 GET /
+[ info ] www.demo_public.com/ [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,171.59kb] [文件加载：35]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\WWW\demo\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T12:18:53+08:00 ] 127.0.0.1 GET /
+[ info ] www.demo_public.com/ [运行时间：0.027001s][吞吐率：37.04req/s] [内存消耗：1,171.10kb] [文件加载：35]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\WWW\demo\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T12:19:42+08:00 ] 127.0.0.1 GET /
+[ info ] www.demo_public.com/ [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：1,057.62kb] [文件加载：33]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\WWW\demo\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-03T12:19:46+08:00 ] 127.0.0.1 GET /admin
+[ info ] www.demo_public.com/admin [运行时间：1.072062s][吞吐率：0.93req/s] [内存消耗：2,123.05kb] [文件加载：45]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\WWW\demo\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\index\index.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.006058s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:23:12+08:00 ] 127.0.0.1 GET /admin/system/setting.html
+[ info ] www.demo_public.com/admin/system/setting.html [运行时间：1.086062s][吞吐率：0.92req/s] [内存消耗：1,997.39kb] [文件加载：45]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'setting',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'referer' => 'http://www.demo_public.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\System->setting[ D:\WWW\demo\application\admin\controller\System.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\system\setting.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+  3 => 'site_config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.009058s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_system` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] SELECT `value` FROM `lotus_system` WHERE  `name` = 'site_config' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:23:15+08:00 ] 127.0.0.1 POST /admin/system/updateSiteConfig
+[ info ] www.demo_public.com/admin/system/updateSiteConfig [运行时间：1.062061s][吞吐率：0.94req/s] [内存消耗：1,751.92kb] [文件加载：43]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'updateSiteConfig',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'content-length' => '297',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://www.demo_public.com/admin/system/setting.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+  'site_config' => 
+  array (
+    'title' => 'LotusAdmin',
+    'company' => '猫的梦想',
+    'seo' => 'LotusAdmin',
+    'keywords' => 'LotusAdmin',
+    'description' => 'LotusAdmin',
+    'version' => 'LotusAdmin',
+    'ICP' => 'LotusAdmin',
+    'code' => '  ',
+  ),
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\System->updateSiteConfig[ D:\WWW\demo\application\admin\controller\System.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.994057s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_system` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] UPDATE `lotus_system`  SET `value`='a:8:{s:5:\"title\";s:10:\"LotusAdmin\";s:7:\"company\";s:12:\"猫的梦想\";s:3:\"seo\";s:10:\"LotusAdmin\";s:8:\"keywords\";s:10:\"LotusAdmin\";s:11:\"description\";s:10:\"LotusAdmin\";s:7:\"version\";s:10:\"LotusAdmin\";s:3:\"ICP\";s:10:\"LotusAdmin\";s:4:\"code\";s:2:\"  \";}'  WHERE  `name` = 'site_config' [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:23:54+08:00 ] 127.0.0.1 GET /admin/system/setting.html
+[ info ] www.demo_public.com/admin/system/setting.html [运行时间：1.094063s][吞吐率：0.91req/s] [内存消耗：1,997.70kb] [文件加载：45]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'setting',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'referer' => 'http://www.demo_public.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\System->setting[ D:\WWW\demo\application\admin\controller\System.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\system\setting.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+  3 => 'site_config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.021059s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_system` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `lotus_system` WHERE  `name` = 'site_config' LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:24:17+08:00 ] 127.0.0.1 POST /admin/system/updateSiteConfig
+[ info ] www.demo_public.com/admin/system/updateSiteConfig [运行时间：1.084062s][吞吐率：0.92req/s] [内存消耗：1,751.99kb] [文件加载：43]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'updateSiteConfig',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'content-length' => '391',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://www.demo_public.com/admin/system/setting.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+  'site_config' => 
+  array (
+    'title' => '素材火',
+    'company' => '素材火',
+    'seo' => '素材火',
+    'keywords' => '素材火',
+    'description' => '素材火',
+    'version' => '素材火',
+    'ICP' => '素材火',
+    'code' => '   ',
+  ),
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\System->updateSiteConfig[ D:\WWW\demo\application\admin\controller\System.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.021058s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_system` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] UPDATE `lotus_system`  SET `value`='a:8:{s:5:\"title\";s:9:\"素材火\";s:7:\"company\";s:9:\"素材火\";s:3:\"seo\";s:9:\"素材火\";s:8:\"keywords\";s:9:\"素材火\";s:11:\"description\";s:9:\"素材火\";s:7:\"version\";s:9:\"素材火\";s:3:\"ICP\";s:9:\"素材火\";s:4:\"code\";s:3:\"   \";}'  WHERE  `name` = 'site_config' [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:24:21+08:00 ] 127.0.0.1 GET /admin/system/setting.html
+[ info ] www.demo_public.com/admin/system/setting.html [运行时间：1.083062s][吞吐率：0.92req/s] [内存消耗：1,809.81kb] [文件加载：43]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'setting',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'referer' => 'http://www.demo_public.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\System->setting[ D:\WWW\demo\application\admin\controller\System.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\system\setting.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+  3 => 'site_config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.017058s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_system` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT `value` FROM `lotus_system` WHERE  `name` = 'site_config' LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-03T12:24:25+08:00 ] 127.0.0.1 GET /admin/index/index.html
+[ info ] www.demo_public.com/admin/index/index.html [运行时间：1.064061s][吞吐率：0.94req/s] [内存消耗：2,123.63kb] [文件加载：45]
+[ info ] [ LANG ] D:\WWW\demo\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'pgv_pvi=4480772096; PHPSESSID=70kn2eoguf7ddp3pvhgmet47s1',
+  'referer' => 'http://www.demo_public.com/admin/system/setting.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.demo_public.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\WWW\demo\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\WWW\demo\public/../application/admin\view\index\index.html [ array (
+  0 => 'menu',
+  1 => 'controller',
+  2 => 'action',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.002057s ] mysql:host=localhost;dbname=demo_689;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_group_access` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT `group_id` FROM `lotus_auth_group_access` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `AuthGroupAccess`.`uid`,`AuthGroupAccess`.`group_id`,`AuthGroup`.`title`,`AuthGroup`.`rules` FROM `lotus_auth_group_access` `AuthGroupAccess` LEFT JOIN `lotus_auth_group` `AuthGroup` ON `AuthGroupAccess`.`group_id`=`AuthGroup`.`id` WHERE  (  AuthGroupAccess.uid='1' and AuthGroup.status='1' ) [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lotus_auth_rule` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `condition`,`name` FROM `lotus_auth_rule` WHERE  `id` IN (1,2,187,188,3,189,190,191,4,192,193,10,11,195,197,198,199)  AND `type` = 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `lotus_auth_rule` WHERE  `status` = 1 ORDER BY `sort`  DESC,`id`  ASC [ RunTime:0.000000s ]
